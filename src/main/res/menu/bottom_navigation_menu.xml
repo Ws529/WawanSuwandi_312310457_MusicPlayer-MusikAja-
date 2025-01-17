@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_songs"
+        android:icon="@drawable/ic_music_note"
+        android:title="Songs"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_folders"
+        android:icon="@drawable/ic_folder"
+        android:title="Folders"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_albums"
+        android:icon="@drawable/ic_album"
+        android:title="Albums"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+</menu>

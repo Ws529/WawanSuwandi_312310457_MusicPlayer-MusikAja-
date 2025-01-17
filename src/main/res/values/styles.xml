@@ -1,0 +1,12 @@
+<resources>
+    <!-- Tema Default -->
+    <style name="AppTheme.Default" parent="Theme.MusikAja11">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Tema Pure Black -->
+    <style name="AppTheme.PureBlack" parent="AppTheme.Default">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
