@@ -85,6 +85,20 @@ Saat ini, sakelar berada di posisi nonaktif (off), menandakan bahwa mode Pure Bl
 
 
 
+**Tampilannya :**
+
+
+![Cuplikan layar 2025-01-17 220255](https://github.com/user-attachments/assets/e6801d50-b29f-4960-a34f-d954206aac62)
+![Cuplikan layar 2025-01-17 220534](https://github.com/user-attachments/assets/0fcc852f-cb88-4378-a865-defc222fc73d)
+![Cuplikan layar 2025-01-17 220619](https://github.com/user-attachments/assets/24ce1611-1adf-492b-ba61-8ad871395a2a)
+![Cuplikan layar 2025-01-17 222043](https://github.com/user-attachments/assets/d5705f7d-30e9-40bc-a736-9b202eecea21)
+
+![Cuplikan layar 2025-01-17 222622](https://github.com/user-attachments/assets/f981a5eb-bf23-45c1-b71d-d457a563ce46)
+![Cuplikan layar 2025-01-17 224709](https://github.com/user-attachments/assets/6fb2df00-c780-4f66-ae2f-f23cd2003647)
+![Cuplikan layar 2025-01-17 224810](https://github.com/user-attachments/assets/79b1cf9b-1964-4ddb-8b01-50faf8172b1f)
+![Cuplikan layar 2025-01-17 224856](https://github.com/user-attachments/assets/4bb75708-8955-422a-8b0d-4965e166b36b)
+
+
 
 
 
